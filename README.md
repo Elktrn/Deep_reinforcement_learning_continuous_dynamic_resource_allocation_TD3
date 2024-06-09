@@ -1,0 +1,2 @@
+# Deep_reinforcement_learning_continuous_dynamic_resource_allocation_TD3
+allocate dynamic resources using Deep RL algorithm for continuos resources
